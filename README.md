@@ -21,3 +21,6 @@ Projeyi çalıştırmak için gerekli temel kütüphaneler:
 
 ```bash
 pip install opencv-python mediapipe
+![OrnekGorsel1](parmakSayma/sample images/Ekran görüntüsü 2025-10-21 142445.png)
+![OrnekGorsel2](parmakSayma/sample images/Ekran görüntüsü 2025-10-21 142513.png)
+![OrnekGorsel3](parmakSayma/sample images/Ekran görüntüsü 2025-10-21 142539.png)
