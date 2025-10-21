@@ -16,11 +16,11 @@ Kod içerisinde parmakların açık/kapalı durumunu kontrol eden mantık, parma
 **Bu mantık, özellikle Başparmak kontrolü, ekran karşısında tutulan sol ele (el avuç içi kameraya bakarken) uygun şekilde yapılandırılmıştır.** Sağ elinizi kullanırken hatalı sonuçlar alabilirsiniz.
 
 ## 🖼️ Çıktı Örnekleri ve Görsel Geri Bildirim
-  ![OrnekGorsel1](parmakSayma/SampleImages/Ekran görüntüsü 2025-10-21 142445.png
+  ![OrnekGorsel1](parmakSayma/SampleImages/goruntu1.png
 )
-  ![OrnekGorsel2](parmakSayma/SampleImages/Ekran görüntüsü 2025-10-21 142513.png
+  ![OrnekGorsel2](parmakSayma/SampleImages/goruntu2.png
 )
-  ![OrnekGorsel3](parmakSayma/SampleImages/Ekran görüntüsü 2025-10-21 142539.png)
+  ![OrnekGorsel3](parmakSayma/SampleImages/goruntu3.png)
 
 ## ⚙️ Gereksinimler
 
