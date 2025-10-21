@@ -14,10 +14,12 @@ Bu proje, Python ve MediaPipe kütüphanelerini kullanarak bir web kamerası ak�
 Kod içerisinde parmakların açık/kapalı durumunu kontrol eden mantık, parmak uçlarının eklem noktalarına göre **dikey (Y ekseni)** ve **yatay (X ekseni)** konumlarını karşılaştırır.
 
 **Bu mantık, özellikle Başparmak kontrolü, ekran karşısında tutulan sol ele (el avuç içi kameraya bakarken) uygun şekilde yapılandırılmıştır.** Sağ elinizi kullanırken hatalı sonuçlar alabilirsiniz.
+
 ## 🖼️ Çıktı Örnekleri ve Görsel Geri Bildirim
-![OrnekGorsel1](parmakSayma/sample images/Ekran görüntüsü 2025-10-21 142445.png)
-![OrnekGorsel2](parmakSayma/sample images/Ekran görüntüsü 2025-10-21 142513.png)
-![OrnekGorsel3](parmakSayma/sample images/Ekran görüntüsü 2025-10-21 142539.png)
+  ![OrnekGorsel1](parmakSayma/sample images/Ekran görüntüsü 2025-10-21 142445.png)
+  ![OrnekGorsel2](parmakSayma/sample images/Ekran görüntüsü 2025-10-21 142513.png)
+  ![OrnekGorsel3](parmakSayma/sample images/Ekran görüntüsü 2025-10-21 142539.png)
+
 ## ⚙️ Gereksinimler
 
 Projeyi çalıştırmak için gerekli temel kütüphaneler:
